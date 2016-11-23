@@ -1,0 +1,15 @@
+.Header__root {
+    background-color: #ffffff;
+    border-bottom: 1px solid #dbdbdb;
+}
+.Header__container {
+    padding: 1.3rem 0;
+}
+.Header__logo {
+    font-size: 22px;
+    margin: 0;
+}
+.Header__logo_link {
+    text-decoration: none;
+    color: #262626;
+}
