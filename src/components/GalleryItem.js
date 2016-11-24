@@ -11,7 +11,7 @@ class GalleryItem extends Component {
             <img
               src={this.props.avatarUrl}
               className="GalleryItem-header__avatar-img"
-              alt={'${this.props.username} profile'}
+              alt={`${this.props.username} profile`}
             />
           </div>
           <div className="GalleryItem-header__metadata-container">
